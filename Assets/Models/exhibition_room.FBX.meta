@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 202cd4afd15ef2947893bda74882238a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bar
+    100002: Board
+    100004: BoardModel
+    100006: Cone001
+    100008: Cone002
+    100010: Cone003
+    100012: //RootNode
+    100014: Layer:3850_5818_building
+    100016: Light
+    100018: Light001
+    100020: Light002
+    100022: light_arm
+    100024: light_arm001
+    100026: light_arm002
+    100028: pole
+    100030: pole001
+    100032: pole002
+    100034: pole003
+    100036: pole004
+    100038: pole005
+    100040: pole006
+    100042: pole007
+    100044: pole008
+    400000: bar
+    400002: Board
+    400004: BoardModel
+    400006: Cone001
+    400008: Cone002
+    400010: Cone003
+    400012: //RootNode
+    400014: Layer:3850_5818_building
+    400016: Light
+    400018: Light001
+    400020: Light002
+    400022: light_arm
+    400024: light_arm001
+    400026: light_arm002
+    400028: pole
+    400030: pole001
+    400032: pole002
+    400034: pole003
+    400036: pole004
+    400038: pole005
+    400040: pole006
+    400042: pole007
+    400044: pole008
+    2100000: 'Material #36'
+    2100002: 'Material #35'
+    2100004: 'Material #34 Slot #5'
+    2100006: 'Material #34 Slot #4'
+    2100008: 'Material #34 Slot #6'
+    2100010: 'Material #34 Slot #3'
+    2100012: No Name
+    2300000: bar
+    2300002: Board
+    2300004: Cone001
+    2300006: Cone002
+    2300008: Cone003
+    2300010: Layer:3850_5818_building
+    2300012: light_arm
+    2300014: light_arm001
+    2300016: light_arm002
+    2300018: pole
+    2300020: pole001
+    2300022: pole002
+    2300024: pole003
+    2300026: pole004
+    2300028: pole005
+    2300030: pole006
+    2300032: pole007
+    2300034: pole008
+    3300000: bar
+    3300002: Board
+    3300004: Cone001
+    3300006: Cone002
+    3300008: Cone003
+    3300010: Layer:3850_5818_building
+    3300012: light_arm
+    3300014: light_arm001
+    3300016: light_arm002
+    3300018: pole
+    3300020: pole001
+    3300022: pole002
+    3300024: pole003
+    3300026: pole004
+    3300028: pole005
+    3300030: pole006
+    3300032: pole007
+    3300034: pole008
+    4300000: Board
+    4300002: Layer:3850_5818_building
+    4300004: bar
+    4300006: pole
+    4300008: pole001
+    4300010: pole002
+    4300012: pole003
+    4300014: pole004
+    4300016: pole005
+    4300018: pole006
+    4300020: pole007
+    4300022: pole008
+    4300024: light_arm
+    4300026: Cone001
+    4300028: Cone002
+    4300030: light_arm001
+    4300032: Cone003
+    4300034: light_arm002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
